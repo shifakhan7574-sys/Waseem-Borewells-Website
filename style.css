@@ -217,7 +217,7 @@ section {
     isolation: isolate;
     background:
         linear-gradient(90deg, rgba(4,12,23,0.95), rgba(4,12,23,0.48)),
-        url("images/borewell-truck.png") center / cover no-repeat,
+        url("borewell-truck.png") center / cover no-repeat,
         var(--bg);
 }
 
@@ -438,19 +438,19 @@ section {
 }
 
 .drilling-image {
-    background-image: url("images/borewell-truck.png");
+    background-image: url("borewell-truck.png");
 }
 
 .pump-image {
-    background-image: url("images/submersible-pump.png");
+    background-image: url("submersible-pump.png");
 }
 
 .repair-image {
-    background-image: url("images/pump-repair.png");
+    background-image: url("pump-repair.png");
 }
 
 .plumbing-image {
-    background-image: url("images/pvc-pipes.png");
+    background-image: url("pvc-pipes.png");
 }
 
 .service-number {
@@ -748,7 +748,7 @@ section {
     text-align: center;
     background:
         linear-gradient(rgba(4,12,23,0.83), rgba(4,12,23,0.9)),
-        url("images/borewell-truck.png") center / cover no-repeat;
+        url("borewell-truck.png") center / cover no-repeat;
 }
 
 .statement-overlay {
@@ -791,7 +791,7 @@ section {
     border-radius: 12px;
     background:
         linear-gradient(0deg, rgba(4,12,23,0.15), transparent),
-        url("images/pump-repair.png") center / cover no-repeat;
+        url("about-us.png") center / cover no-repeat;
     border: 1px solid var(--border);
 }
 
@@ -981,7 +981,7 @@ section {
     text-align: center;
     background:
         linear-gradient(rgba(4,12,23,0.9), rgba(4,12,23,0.9)),
-        url("images/borewell-truck.png") center / cover no-repeat;
+        url("borewell-truck.png") center / cover no-repeat;
     border-top: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
 }
